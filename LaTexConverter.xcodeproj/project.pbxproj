@@ -40,6 +40,7 @@
 		BE69617F1793F80700DBB42D /* NSFileHandle+ReadLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFileHandle+ReadLine.m"; sourceTree = "<group>"; };
 		BE6961811793F96400DBB42D /* NSData+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Additions.h"; sourceTree = "<group>"; };
 		BE6961821793F96400DBB42D /* NSData+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Additions.m"; sourceTree = "<group>"; };
+		BEB65F61179401F500E89C46 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		BE69615B1793F78400DBB42D = {
 			isa = PBXGroup;
 			children = (
+				BEB65F61179401F500E89C46 /* README.md */,
 				BE6961691793F78400DBB42D /* LaTexConverter */,
 				BE6961661793F78400DBB42D /* Frameworks */,
 				BE6961651793F78400DBB42D /* Products */,
@@ -260,6 +262,7 @@
 				BE6961741793F78500DBB42D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
